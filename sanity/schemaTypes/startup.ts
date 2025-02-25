@@ -8,7 +8,7 @@ export const startup = defineType({
     type: 'document',
     fields: [
         defineField({
-            name: 'tile',
+            name: 'title',
             type: 'string'
         }),
         defineField({
